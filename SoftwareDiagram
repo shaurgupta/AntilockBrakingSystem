@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2020-10-10T10:33:03.391Z" agent="5.0 (Macintosh)" version="13.7.9" etag="06gErN4H68XputQhdfs9" type="github"><diagram id="zE70lUrYntT_Q8bKhKNO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-10T14:54:06.526Z" agent="5.0 (Macintosh)" etag="dkvCrBtxrRWu-rc_-QEt" version="13.7.9" type="github">
+  <diagram id="zE70lUrYntT_Q8bKhKNO" name="Page-1">
+    <mxGraphModel dx="363" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbXPJRwXSGR8UiKKiu57-1" target="LbXPJRwXSGR8UiKKiu57-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-1" value="ABS WHEEL SPEED SENSOR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="125" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbXPJRwXSGR8UiKKiu57-2" target="LbXPJRwXSGR8UiKKiu57-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-2" value="&lt;div&gt;BRAKE SWITCH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="240" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbXPJRwXSGR8UiKKiu57-3" target="LbXPJRwXSGR8UiKKiu57-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-3" value="WHEEL SPEED CALCULATION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="125" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-4" value="BRAKE OPERATING CONDITION DETERMINATION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbXPJRwXSGR8UiKKiu57-5" target="LbXPJRwXSGR8UiKKiu57-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-5" value="ESTIMATED VEHICLE SPEED CALCULATION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LbXPJRwXSGR8UiKKiu57-7" target="LbXPJRwXSGR8UiKKiu57-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbXPJRwXSGR8UiKKiu57-7" target="LbXPJRwXSGR8UiKKiu57-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-7" value="&lt;div&gt;ABS CONTROL AMOUNT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="LbXPJRwXSGR8UiKKiu57-8" target="LbXPJRwXSGR8UiKKiu57-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="345" />
+              <mxPoint x="630" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-8" value="EBD CONTROL AMOUNT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="290" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-9" value="PUMP MOTOR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-10" value="FRONT SOLENOID VALVE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-11" value="REAR SOLENOID VALVE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-18" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LbXPJRwXSGR8UiKKiu57-3" target="LbXPJRwXSGR8UiKKiu57-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="140" as="sourcePoint" />
+            <mxPoint x="350" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="138" />
+              <mxPoint x="510" y="318" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-21" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="170" as="sourcePoint" />
+            <mxPoint x="541" y="171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-22" value="" style="endArrow=classic;html=1;entryX=0.029;entryY=0.855;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="LbXPJRwXSGR8UiKKiu57-4" target="LbXPJRwXSGR8UiKKiu57-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="300" as="sourcePoint" />
+            <mxPoint x="470" y="250" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-25" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="LbXPJRwXSGR8UiKKiu57-4" target="LbXPJRwXSGR8UiKKiu57-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="sourcePoint" />
+            <mxPoint x="490" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="275" />
+              <mxPoint x="420" y="373" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-28" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="LbXPJRwXSGR8UiKKiu57-5" target="LbXPJRwXSGR8UiKKiu57-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="380" as="sourcePoint" />
+            <mxPoint x="500" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="190" />
+              <mxPoint x="500" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-33" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="180" as="sourcePoint" />
+            <mxPoint x="670" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbXPJRwXSGR8UiKKiu57-35" value="&lt;div&gt;Made by Shaurya Gupta&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="335" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
